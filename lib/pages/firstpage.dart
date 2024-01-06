@@ -14,7 +14,7 @@ class _FirstpageState extends State<Firstpage> {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          "Lab7",
+          "Lab8",
           style: TextStyle(
             fontSize: 24,
             fontWeight: FontWeight.bold,
